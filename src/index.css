@@ -136,3 +136,18 @@ footer{
 .button.primary{
   background-color: rgb(131, 220, 247)
 }
+
+/* Filters */
+
+.filter{
+  display: flex;
+  justify-content:space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem grey solid;
+
+}
+
+.filter div{
+  flex: 1;
+}
