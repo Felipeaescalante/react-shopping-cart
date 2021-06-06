@@ -1,4 +1,9 @@
-# React Shopping Card
+# React Shopping Project
 
-# Step 1: Create react app.
+This is a front-end project for a fashion online store.
+
+
+
+
+
 
